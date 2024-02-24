@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Justifying DeduKt}{1}{}%
+\contentsline {subsection}{\numberline {1.1}Mathematica as an Alternative}{1}{}%
+\contentsline {subsection}{\numberline {1.2}Why Open-Source?}{1}{}%
+\contentsline {subsection}{\numberline {1.3}What we mean By intelligent proof assiting}{2}{}%
+\contentsline {section}{\numberline {2}Current Frameworks}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Mathematica and Wolfram Language}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Coq, Agda and other proof assistants}{3}{}%
+\contentsline {section}{\numberline {3}Development Plan}{3}{}%
+\contentsline {subsection}{\numberline {3.1}Symbolic Computation and LaTeX}{3}{}%
+\contentsline {subsection}{\numberline {3.2}Computer Algebra}{3}{}%
+\contentsline {subsection}{\numberline {3.3}Markov Chain}{4}{}%
