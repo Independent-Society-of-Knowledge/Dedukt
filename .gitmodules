@@ -1,0 +1,6 @@
+[submodule "proposal/Arend-For-DeduKt"]
+	path = proposal/Arend-For-DeduKt
+	url = https://github.com/Independent-Society-of-Knowledge/Arend-For-DeduKt
+[submodule "code/modules/Arend-For-DeduKt"]
+	path = code/modules/Arend-For-DeduKt
+	url = https://github.com/Independent-Society-of-Knowledge/Arend-For-DeduKt
