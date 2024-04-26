@@ -1,3 +1,5 @@
+![DeduKT](https://github.com/Independent-Society-of-Knowledge/Dedukt/assets/76442288/591193a7-8e0f-4681-8ee4-ca780c22afda)
+
 # DeduKt
 DeduKt is an open-source mathematical framework, that assists with mathematical work through symbolic computation, interpretive and intelligent proof assitance. The main goals of this project is to design a framework for any kind of mathematical practices, extending it to a point where one would be able to design a new mathematical structure from scratch. 
 
